@@ -1,0 +1,17 @@
+C:\Users\stepp\AppData\Local\Temporary Projects\Stocks\bin\Debug\Stocks.exe
+C:\Users\stepp\AppData\Local\Temporary Projects\Stocks\bin\Debug\Stocks.pdb
+C:\Users\stepp\AppData\Local\Temporary Projects\Stocks\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\stepp\AppData\Local\Temporary Projects\Stocks\obj\Debug\Stocks.Form1.resources
+C:\Users\stepp\AppData\Local\Temporary Projects\Stocks\obj\Debug\Stocks.Properties.Resources.resources
+C:\Users\stepp\AppData\Local\Temporary Projects\Stocks\obj\Debug\Stocks.csproj.GenerateResource.Cache
+C:\Users\stepp\AppData\Local\Temporary Projects\Stocks\obj\Debug\Stocks.exe
+C:\Users\stepp\AppData\Local\Temporary Projects\Stocks\obj\Debug\Stocks.pdb
+C:\Users\stepp\AppData\Local\Temporary Projects\Stocks\obj\Debug\Stocks.UserControl1.resources
+E:\GitHub\CSharpWorkspace\Stocks\Stocks\obj\Debug\Stocks.exe
+E:\GitHub\CSharpWorkspace\Stocks\Stocks\obj\Debug\Stocks.pdb
+E:\GitHub\CSharpWorkspace\Stocks\Stocks\bin\Debug\Stocks.exe
+E:\GitHub\CSharpWorkspace\Stocks\Stocks\bin\Debug\Stocks.pdb
+E:\GitHub\CSharpWorkspace\Stocks\Stocks\obj\Debug\ResolveAssemblyReference.cache
+E:\GitHub\CSharpWorkspace\Stocks\Stocks\obj\Debug\Stocks.Properties.Resources.resources
+E:\GitHub\CSharpWorkspace\Stocks\Stocks\obj\Debug\Stocks.csproj.GenerateResource.Cache
+E:\GitHub\CSharpWorkspace\Stocks\Stocks\obj\Debug\Stocks.MainForm.resources
